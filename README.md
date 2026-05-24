@@ -1,4 +1,4 @@
-<h1 align="center">Ben k4gan</h1>
+<h1 align="center">Ben Oğuz Kağan Kahraman</h1>
 <h3 align="center">Versatil bir adamım</h3>
 
 ### Blogs posts
